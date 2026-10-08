@@ -2,9 +2,9 @@
 
 C++17 폴더 백업 및 복원 도구에 DDD의 일부 원칙을 적용한 학습 프로젝트입니다.
 
-**개발 기간**: 2026년 10월 
-**개발 형태 및 본인 역할**: 생성형 AI의 도움을 받아 작성한 학습 프로젝트.
-**GitHub**: https://github.com/ejjeon00/Mini_Project_SafeCopy
+**개발 기간**: 2026년 10월  
+**개발 형태 및 본인 역할**: 생성형 AI의 도움을 받아 작성한 학습 프로젝트.  
+**GitHub**: https://github.com/ejjeon00/Mini_Project_SafeCopy  
 
 
 ## 한글 메뉴 사용 방법
