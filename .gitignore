@@ -1,0 +1,6 @@
+.vs/
+build/
+backups_ddd/
+safecopy_ddd_errors.log
+*.exe
+*.obj
